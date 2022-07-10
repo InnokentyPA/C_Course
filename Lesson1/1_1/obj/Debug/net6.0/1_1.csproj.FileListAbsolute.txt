@@ -1,0 +1,15 @@
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\bin\Debug\net6.0\1_1.exe
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\bin\Debug\net6.0\1_1.deps.json
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\bin\Debug\net6.0\1_1.runtimeconfig.json
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\bin\Debug\net6.0\1_1.dll
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\bin\Debug\net6.0\1_1.pdb
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\1_1.csproj.AssemblyReference.cache
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\1_1.AssemblyInfoInputs.cache
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\1_1.AssemblyInfo.cs
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\1_1.csproj.CoreCompileInputs.cache
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\1_1.dll
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\refint\1_1.dll
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\1_1.pdb
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\1_1.genruntimeconfig.cache
+C:\Users\!!!\Desktop\C#\C_Course\Lesson1\1_1\obj\Debug\net6.0\ref\1_1.dll
