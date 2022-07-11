@@ -1,12 +1,10 @@
 ﻿//Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
-Console.WriteLine("Введите кличество элементов массива: ");
+Console.WriteLine("Write a number: ");
 int a = int.Parse(Console.ReadLine());
-int[] n = new int[a];
-int i = 0;
-int resoult = 0;
-while (i < a)
+int i = 2;
+while (i <= a)
 {
-    if (n[i] % 2 == 0) resoult = n[i];
-    i++;
+    Console.Write(i);
+    Console.Write(", ");
+    i += 2;
 }
-Console.WriteLine(resoult);
