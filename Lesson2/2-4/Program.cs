@@ -5,7 +5,7 @@ void krat (int N)
     Console.WriteLine ("Yes");
     else
     {
-        Console.WriteLine ($"No");
+        Console.WriteLine ("No");
     }
 }
 int n = int.Parse(Console.ReadLine());
