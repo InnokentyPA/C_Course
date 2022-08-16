@@ -44,5 +44,7 @@ int row = int.Parse(Console.ReadLine());
 Console.Write("Enter the number of columns: ");
 int column = int.Parse(Console.ReadLine());
 int[,] arr_1 = MassNums(row, column, 1, 11);
+Console.WriteLine("Enter the number: ");
+int a = int.Parse(Console.ReadLine());
 Print(arr_1);
-Console.WriteLine(FirstExplosition(arr_1, 8));
+Console.WriteLine(FirstExplosition(arr_1, a));
